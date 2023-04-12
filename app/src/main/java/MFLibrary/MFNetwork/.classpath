@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="MFCom"/>
+	<classpathentry kind="src" path="MFDatabase"/>
+	<classpathentry kind="src" path="MFData"/>
+	<classpathentry kind="src" path="MFClient"/>
+	<classpathentry kind="src" path="MFThreadSystem"/>
+	<classpathentry kind="src" path="MFGUISystem"/>
+	<classpathentry kind="lib" path="/home/michl/JavaProjects/sqlite-jdbc-3.21.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/java-8-openjdk"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

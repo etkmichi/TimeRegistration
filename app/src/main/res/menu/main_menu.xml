@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_employee"
+        android:showAsAction="never"
+        android:title="@string/option_new_employee" />
+    <item
+        android:id="@+id/absence"
+        android:showAsAction="never"
+        android:title="@string/options_absence" />
+    <item
+        android:id="@+id/export"
+        android:showAsAction="never"
+        android:title="@string/options_export" />
+    <item
+        android:id="@+id/help"
+        android:showAsAction="never"
+        android:title="@string/option_help" />
+    <item
+        android:id="@+id/setting"
+        android:showAsAction="never"
+        android:title="@string/option_settings" />
+</menu>
