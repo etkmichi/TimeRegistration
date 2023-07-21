@@ -22,7 +22,7 @@ OS:
 
 Language:
   * German
-  * DB entries for GUI-Elements can be edited for additional languages (Not tested yet! This is a custom implementation.)
+  * DB entries for GUI-Elements can be edited for additional languages (Not tested yet! This is a custom implementation)
 
 Additional libraries:
   * sqldroid
